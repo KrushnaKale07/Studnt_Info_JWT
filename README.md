@@ -1,7 +1,7 @@
 1:	To clone a repository : Create folder in the file explorer-> go to the folder click right-> Git bash here-> clone repository  with command 
 	"git clone https://github.com/KrushnaKale07/Student_Info"
 	
-2:	Import that cloned repository in eclipse : Open eclipse-> Go to the File->import-> Maven-> Exiting Maven Projects->Next->Browse the directory where you cloned 	repository->Select Project Folder-> Clicked pom.xml check box -> Finish
+2:	Import that cloned repository in eclipse : Open eclipse-> Go to the File->import-> Maven-> Exiting Maven Projects->Next->Browse the directory where you cloned 	repository->Select 		Project Folder-> Clicked pom.xml check box -> Finish
 
 3:	clean maven by clicking right  on Project Name-> Run As-> Maven Clean
 
@@ -53,3 +53,6 @@
   		"password": "adminpass"
 	}
 	and Authorization : Bearer <jwt_token>
+ 
+12:	I have partially completed with the security part.
+	I tried my level best to execute it but I am facing some issues like bean configuration for the security part so I am not able to cover it given duration.
